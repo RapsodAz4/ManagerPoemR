@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RapsodAz4/ManagerPoemR.git/static/css/main.9fdcf96e.css",
+    "main.js": "/RapsodAz4/ManagerPoemR.git/static/js/main.daace997.js",
+    "static/js/453.ded839df.chunk.js": "/RapsodAz4/ManagerPoemR.git/static/js/453.ded839df.chunk.js",
+    "index.html": "/RapsodAz4/ManagerPoemR.git/index.html",
+    "main.9fdcf96e.css.map": "/RapsodAz4/ManagerPoemR.git/static/css/main.9fdcf96e.css.map",
+    "main.daace997.js.map": "/RapsodAz4/ManagerPoemR.git/static/js/main.daace997.js.map",
+    "453.ded839df.chunk.js.map": "/RapsodAz4/ManagerPoemR.git/static/js/453.ded839df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fdcf96e.css",
+    "static/js/main.daace997.js"
+  ]
+}
